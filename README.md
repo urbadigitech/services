@@ -13,7 +13,7 @@ Ce site présente les micro-services proposés par Urbadigitech :
 
 ## 🚀 Mise en ligne
 Le site est hébergé via **GitHub Pages** :  
-👉 [https://ton-pseudo.github.io/urbadigitech-site](https://ton-pseudo.github.io/urbadigitech-site)
+👉 [https://urbadigitech.github.io/urbadigitech-site](https://urbadigitech.github.io/urbadigitech-site)
 
 ## 📩 Contact
 Anas Benabdellah – Fondateur  
